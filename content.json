@@ -1,1 +1,1 @@
-[{"title":"第一篇","date":"2017-12-16T06:52:46.000Z","path":"2017/12/16/first-blog/","tags":[]},{"title":"Hello World","date":"2017-12-16T06:27:21.000Z","path":"2017/12/16/hello-world/","tags":[]}]
+[{"title":"第一篇","date":"2017-12-16T06:52:46.000Z","path":"2017/12/16/first-blog/","categories":[{"name":"分类","slug":"分类","permalink":"http://yoursite.com/categories/分类/"}],"tags":[]},{"title":"Hello World","date":"2017-12-16T06:27:21.000Z","path":"2017/12/16/hello-world/","categories":[],"tags":[]}]
